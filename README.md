@@ -1,2 +1,2 @@
 # prework-study-guide
-Repo for the rework course
+Repo for the prework course
