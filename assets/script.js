@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const topics = ['HTML','CSS','Git','JavaScript']
 const randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
@@ -26,3 +27,9 @@ function selectTopic() {
  
   console.log('Which topic should we study first?');
   selectTopic();
+=======
+const topic = ['HTML','CSS','Git','JavaScript']
+for (let i = 0; i <topic.length; i++){
+    console.log(topic[i]);
+}
+>>>>>>> 43804108a5e753cbb5ad019ebeefd914e801b304
