@@ -4,9 +4,6 @@
 
 This study guide was created for my bootcamp
 
-## Table of Contents (Optional)
-
-
 ## Installation
 
 N/A
